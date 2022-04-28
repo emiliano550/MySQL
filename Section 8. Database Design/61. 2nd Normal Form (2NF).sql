@@ -1,0 +1,5 @@
+-- WHAT IS 2NF
+-- Tables are in 2NF if:
+-- *The conform to 1NF
+-- *Every column that is not a primary key of the table is dependent on the whole 
+-- of primary key. 
